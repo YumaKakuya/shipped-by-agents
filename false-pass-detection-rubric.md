@@ -74,6 +74,6 @@ After running the 5-point check:
 
 ## Usage
 
-This rubric is referenced in the essay ["False PASS: When Your AI Agent's Tests All Pass But Nothing Works"](https://yumakakuya.substack.com) on Shipped by Agents.
+This rubric is referenced in the essay ["False PASS: When Your AI Agent's Tests All Pass But Nothing Works"](https://yumakakuya.substack.com/p/false-pass-when-your-ai-agents-tests) on Shipped by Agents.
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, adapt it, share it.
