@@ -77,3 +77,9 @@ After running the 5-point check:
 This rubric is referenced in the essay ["False PASS: When Your AI Agent's Tests All Pass But Nothing Works"](https://yumakakuya.substack.com/p/false-pass-when-your-ai-agents-tests) on Shipped by Agents.
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, adapt it, share it.
+
+---
+
+## Go Deeper
+
+This rubric is the quick-reference version. For the full detection procedures — with step-by-step commands, real-world examples, and remediation actions — see the [False PASS Detection Kit](https://nullfounder.gumroad.com/l/false-pass-detection-kit).
